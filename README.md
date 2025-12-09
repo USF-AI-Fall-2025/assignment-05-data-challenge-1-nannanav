@@ -99,5 +99,14 @@ WAGE_YEAR4: 0 - 153910
 
 ### Q) Are there any people with positive wage trends? Describe these people by their demographics.
 
-- Since we know that there are no people with negative wage trends, we can be sure that everyone has positive trends. 
+- Yes. Here are the top 5 demographics with counts > 10 that show positive wage trends:
 
+```
+Demographic                                Count    Mean Wage
+-----------------------------------------  -----    ----------
+Asian                                      174      $34898.20
+White                                      244      $31525.92
+Male                                       411      $31102.98
+Did Not Experience Homelessness in K-12    236      $29582.42
+Not Foster Youth                           419      $27618.57
+```
